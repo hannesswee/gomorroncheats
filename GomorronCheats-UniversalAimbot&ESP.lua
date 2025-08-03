@@ -30,7 +30,7 @@ rayParams.FilterDescendantsInstances   = {}
 -- FOV circle
 local circle = Drawing.new("Circle")
 circle.Transparency = 1
-circle.Color        = Color3.new(0, 0, 0)
+circle.Color        = Color3.new(255, 255, 255)
 circle.Thickness    = 1
 circle.NumSides     = 64
 
